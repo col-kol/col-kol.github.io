@@ -6,11 +6,9 @@ I loved math in gradeschool and one of my favorite things to do in all of school
 
 My first semester at university, I was wrongly placed in a Calculus 1 course. I did very poorly and had accepted that I was just "bad at math". I thought I would be done with math and focus instead on Biology and Chemistry. The next semester, I decided to take an intro Physics course that was purely Algebra based since I was more than unsure of my Calculus skills. I loved the subject and wanted more, but learned that if I wanted the "real deal" Physics, I needed to actually learn and master Calculus, Algebra, and Trigonometry.  
 
-For example, if I looked at a problem like:
+For example, if I had to solve for y in the following:
 
 $$
-Solve for y.
-
 e^{y+x} = cos(3*x) + (-1)^x
 $$
 
